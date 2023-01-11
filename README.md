@@ -1,10 +1,7 @@
-<p align="center">
-  <h3 align="center">Hi, I'm Timur</h3>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+<h3 align="center">Hi, I'm Timur</h3>
+<h3 align="center">👨‍💻 Software Engineer</h3>
+
 
 <h3>Languages</h3>
 
