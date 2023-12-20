@@ -1,7 +1,10 @@
 
-<h3 align="center">Hi, I'm Timur</h3>
-<h3 align="center">👨‍💻 Software Engineer</h3>
+<h3>Hi, I'm Timur</h3>
 
+* 👨‍💻 Software Engineer
+* 🛠️ Embedded developer
+* 🔗 Crypto enthusiast
+* ⛏️ NEAR Protocol validator (Pool [ruziev.poolv1.near](https://nearscope.net/validator/ruziev.poolv1.near/tab/dashboard) owner)
 
 <h3>Languages</h3>
 
